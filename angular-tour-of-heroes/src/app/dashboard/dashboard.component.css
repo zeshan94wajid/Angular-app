@@ -1,32 +1,27 @@
+/* DashboardComponent's private CSS styles */
 [class*='col-'] {
   float: left;
   padding-right: 20px;
   padding-bottom: 20px;
 }
-
 [class*='col-']:last-of-type {
   padding-right: 0;
 }
-
 a {
   text-decoration: none;
 }
-
 *, *:after, *:before {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
 h3 {
   text-align: center;
   margin-bottom: 0;
 }
-
 h4 {
   position: relative;
 }
-
 .grid {
   margin: 0;
 }
